@@ -2,12 +2,6 @@ pandas
 numpy
 matplolib
 seaborn
-sklearn
-fastapi
-unicorn
-pillow
-pydantic
-requests
-json
-joblib
+openpyxl
+xlsxwriter
 streamlit

@@ -1,6 +1,6 @@
 pandas
 numpy
-matplolib
+matplotlib
 seaborn
 openpyxl
 xlsxwriter

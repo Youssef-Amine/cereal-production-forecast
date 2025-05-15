@@ -110,7 +110,7 @@ if not df_filtre1.empty:
         x='Année',
         y=var_affiche1,
         hue='Région',
-        markers=True,
+        markers=False,
         dashes=False,
         ax=ax
     )
@@ -141,7 +141,7 @@ if not df_filtre2.empty:
         x='Année',
         y=var_affiche1,
         hue='Céréales',
-        markers=True,
+        markers=False,
         dashes=False,
         ax=ax
     )

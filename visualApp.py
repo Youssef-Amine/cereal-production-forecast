@@ -117,6 +117,7 @@ if not df_filtre1.empty:
     plt.xticks(rotation=45)
     plt.ylabel(var_affiche1)
     plt.grid(True)
+    sns.despine()
     plt.tight_layout()
     st.pyplot(fig)
     
@@ -148,6 +149,7 @@ if not df_filtre2.empty:
     plt.xticks(rotation=45)
     plt.ylabel(var_affiche1)
     plt.grid(True)
+    sns.despine()
     plt.tight_layout()
     st.pyplot(fig)
     
